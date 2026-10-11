@@ -1,2 +1,3 @@
 # prbot-sandbox-test
-Throwaway repo for testing prbot (seeded bug)
+
+Throwaway repo for testing an automation pipeline.
